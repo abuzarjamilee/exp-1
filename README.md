@@ -1,5 +1,5 @@
 Experiment - 1
-Aim:
+Aim: 
 a. To display 'Hello World'.
 b. To display the sum of two numbers.
 c. To display the average of two numbers.
